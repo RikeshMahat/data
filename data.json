@@ -1,4 +1,5 @@
-[
+{
+    [
     {"date": "2024-01-01", "product": "A", "units_sold": 100, "revenue": 2000},
     {"date": "2024-01-01", "product": "B", "units_sold": 150, "revenue": 3000},
     {"date": "2024-01-01", "product": "C", "units_sold": 80, "revenue": 1600},
@@ -60,3 +61,4 @@
     {"date": "2024-01-20", "product": "B", "units_sold": 120, "revenue": 2400},
     {"date": "2024-01-20", "product": "C", "units_sold": 70, "revenue": 1400}
 ]
+}
